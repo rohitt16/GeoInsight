@@ -1,0 +1,14 @@
+{
+  "district": "Kamrup",
+  "month": "2026-05",
+  "vegetation": {
+    "average_ndvi": 0.57
+  },
+  "rainfall": {
+    "value_mm": 355
+  },
+  "surface_water": {
+    "coverage_percent": 4.28,
+    "area_km2": 33.9
+  }
+}
